@@ -1,0 +1,4 @@
+name: GlassPrefixes
+version: '${version}'
+main: com.awildboop.glassprefixes.GlassPrefixes
+api-version: '1.20'
